@@ -28,4 +28,4 @@ I'm **Edwin Lopez**, a recent Computer Science graduate from UC Riverside.
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/edwjlr/)
-- [Portfolio](https://www.edwjlr.github.io)
+- [Portfolio](https://edwjlr.github.io)
